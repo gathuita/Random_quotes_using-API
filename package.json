@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "creatin sportsite in using api",
+  "main": "script.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gathuita/WinSport_api_website.git"
+  },
+  "keywords": [
+    "api",
+    "sport"
+  ],
+  "author": "Gathuitapius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gathuita/WinSport_api_website/issues"
+  },
+  "homepage": "https://github.com/gathuita/WinSport_api_website#readme"
+}
